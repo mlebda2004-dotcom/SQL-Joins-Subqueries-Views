@@ -115,4 +115,4 @@ This lab pulls together the core T-SQL toolkit needed for real analytical work �
 
 Data Analyst | Transforming raw data into clear, actionable insights using Power BI, SQL, Excel, and Python.
 
-📫 Connect with me on [www.linkedin.com/in/mahmoud-lebda728](#)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mahmoud-lebda728)
